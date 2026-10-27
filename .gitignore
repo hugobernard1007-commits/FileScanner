@@ -1,2 +1,3 @@
-./Presidio/venv
-./bin
+Presidio/venv
+bin
+obj
